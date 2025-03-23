@@ -20,7 +20,6 @@ Please refer to the Jupyter Notebook file Image Classifier Project (4) (1) (1).i
 ### Command line scripts
 For command line applications, there are two scripts: train.py and predict.py. Running train.py will train the model using the training dataset; on the other hand, the predict.py will load the trained model and make prediction for input image. 
 
-You can directly run command such as python train.py or python predict.py in the terminal. Some arguments need to be specified and other ones are optional. 
 ---
 
 ### train.py
